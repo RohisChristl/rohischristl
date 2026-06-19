@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**RohisChristl/rohischristl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                                 .......                RohisChristl :)
+            *%%%%# :%%%%%-   -+#%%@@@@%%%##+-.           ------------
+           -@@@@@- #@@@@% .+%@@@@%@@@@@@@@@@@%#-        OS  : ...............   Linux, Mac  
+           #%%%%* -@%%%%-=%@@%%%@@%*===+#@@@@@#-        Uptime  : ...........   since June 19, 2026  
+       +**#@%@%%#*%%%@%%#@@%%@%@%=       -###-          Status  : ...........   ongoing, chaotic, enjoying it  
+      =@@@@%@@%@@@@@@%@@@%%@@%%%:                       Languages  : ........   Javascript, Python, Node
+      ...*%%@%@-=%%@%@*#%%@@@%@=    -=============      Infra  : ............   Bash, YAML, HCL, Docker  
+        .%%%%@+ +@%%%% #@%@@@%@-    %@@@@@@@@@@@@@.     Interests  : ........   Backend, DevOps, Networking, Linux  
+     +**#@%@%%**@@@%%%+%@%@@@%@*    =*****%%%%%%%%.     
+    +@@@@@@@@@@@@@@%@@@@@@%%@@%@+         #%%@@%@%      Used to automate things for a living. Got curious how things actually work.
+    ..:%%%%%#:=%%@%@=.:.:#@@%%%%@#=.  .:+%@%%%%@%-      Now I'm here, breaking stuff on purpose.
+      -%%%%@: #%%%%#      +%@@@%%@@%%%%@@%%@@@@#:       
+     .@@@@@* =@@@@@:       .=*%@@@@@@@@@@@@@#+:         
+     .=====. -====-           .:-=++****+=-.            Basically anything I got curious about at an inconvenient hour
+```
